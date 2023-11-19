@@ -1,4 +1,4 @@
-# <img align="left" alt="Oxygen" width="300px" src="https://github.com/linkspreed/Oxygen/assets/102324985/6359f019-a8be-4d5a-af3f-b1dd7e976f2b" draggable="false" /> ([Click to try 🚀](https://oxygen.linkspreed.com/)) (v1.0.0)
+# <img align="left" alt="Oxygen" width="250px" src="https://github.com/linkspreed/Oxygen/assets/102324985/6359f019-a8be-4d5a-af3f-b1dd7e976f2b" draggable="false" /> ([Click to try 🚀](https://oxygen.linkspreed.com/)) (v1.0.0)
 
 Oxygen 😃🌐 - the fastest ⚡, safest 🛡️, and most private 💼 browser developed directly from Linkspreed.
 
