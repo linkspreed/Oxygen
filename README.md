@@ -27,4 +27,4 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 
 
 ### Download Page
-<img align="center" alt="Oxygen" width="3000px" src="https://github.com/linkspreed/Oxygen/assets/102324985/57d7b530-93b7-46d5-bd43-ecd6fa7a7147" draggable="false" />
+<img align="center" alt="Oxygen" width="6000px" src="https://github.com/linkspreed/Oxygen/assets/102324985/57d7b530-93b7-46d5-bd43-ecd6fa7a7147" draggable="false" />
